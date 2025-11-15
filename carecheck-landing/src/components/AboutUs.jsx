@@ -4,8 +4,7 @@ function AboutUs() {
     <section id="about-us">
       <h2>About us</h2>
       <p>
-        A couple of sentences about your team, why you’re building this, and
-        what makes you the right people to solve this problem.
+        Your trusted partner in medical bill error analysis. We help individuals, families, and providers navigate medical billing faults to ensure accuracy and fairness in healthcare. Every dollar matters, let’s find yours.
       </p>
       <div className="card-grid">
         <div className="card">

@@ -4,21 +4,20 @@ function WhatWeDo() {
     <section id="what-we-do">
       <h2>What we do</h2>
       <p>
-        Explain in plain language what your product or service actually does.
-        Highlight the pain points you remove and the benefits users experience.
+        We provide comprehensive medical bill error analysis to help you reduce costs and ensure accurate billing practices
       </p>
       <div className="card-grid">
         <div className="card">
           <h3>Feature one</h3>
-          <p>Short description of the core feature and why it matters.</p>
+          <p>Our detailed machine learning methods help ensure you only pay for the service you received.</p>
         </div>
         <div className="card">
           <h3>Feature two</h3>
-          <p>How this helps your user save time, money, or stress.</p>
+          <p>Our services help patients save money through professional dispute resolutions with providers.</p>
         </div>
         <div className="card">
           <h3>Feature three</h3>
-          <p>Any “wow” factor that makes your solution stand out.</p>
+          <p>Through data cycling with providers, we hope to heighten the focus on patient care.</p>
         </div>
       </div>
     </section>

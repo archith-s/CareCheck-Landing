@@ -1,5 +1,5 @@
 // src/components/Hero.jsx
-import heroBg from "../assets/bg-image.jpg"; 
+import heroBg from "../assets/bg2.jpeg"; 
 function Hero() {
   const formUrl = "https://docs.google.com/forms/d/e/1FAIpQLSddhsSIufm9edLbLbFqXSOKQVbJdx9b4CPUR5y_tTKrYKPlaA/viewform?usp=preview";
 
@@ -24,9 +24,7 @@ function Hero() {
             Billing Clarity. Financial Confidence.
           </h1>
           <p>
-            One or two sentences that clearly explain what you do and why anyone
-            should care. Focus on the problem you solve and the outcome you
-            create.
+            Take Control of Your Medical Bills with Data Driven and AI-Powered Error Detection.
           </p>
           <div className="cta-row">
             <a
@@ -42,6 +40,14 @@ function Hero() {
             </a>
           </div>
         </div>
+        <aside className="hero-aside">
+          <h2>Why join now?</h2>
+          <ul>
+            <li>• Get early access and help shape the product.</li>
+            <li>• Priority support and direct contact with the team.</li>
+            <li>• Exclusive updates and launch discounts.</li>
+          </ul>
+        </aside>
         
 
 
