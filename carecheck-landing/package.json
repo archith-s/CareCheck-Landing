@@ -1,6 +1,5 @@
 {
   "name": "carecheck-landing",
-  "homepage": "https://nichllaurado.github.io/CareCheck-Landing",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
